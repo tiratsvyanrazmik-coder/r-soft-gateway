@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "courses": "Courses",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "R'SOFT",
+    "subtitle": "Web Development + Programming School",
+    "description": "We build modern web solutions and train the developers of tomorrow.",
+    "cta_courses": "View Courses",
+    "cta_contact": "Contact Us"
+  },
+  "sections": {
+    "about_title": "About Us",
+    "about_desc": "We are a team of developers and educators.",
+    "courses_title": "Featured Courses",
+    "courses_desc": "Practical skills for your IT career.",
+    "projects_title": "Our Projects",
+    "projects_desc": "Solutions we're proud of.",
+    "news_title": "News",
+    "contact_title": "Get In Touch",
+    "contact_desc": "We're ready to help you."
+  },
+  "about": {
+    "title": "About R'SOFT",
+    "description": "We create quality web solutions and train skilled programmers.",
+    "mission_title": "Our Mission",
+    "mission_desc": "Making IT education accessible and high quality.",
+    "vision_title": "Our Vision",
+    "vision_desc": "To become the leading IT center in the region.",
+    "why_title": "Why Choose Us",
+    "team_title": "Our Team",
+    "stats": {
+      "students": "Students",
+      "courses": "Courses",
+      "projects": "Projects",
+      "years": "Years Experience"
+    },
+    "why_reasons": [
+      "Experienced industry instructors",
+      "Real-world project training",
+      "Flexible class schedule",
+      "Career placement support"
+    ]
+  },
+  "courses": {
+    "title": "All Courses",
+    "description": "Choose a course and start your IT career.",
+    "duration": "Duration",
+    "level": "Level",
+    "see_more": "See More",
+    "enroll": "Enroll Now",
+    "curriculum": "Curriculum",
+    "what_learn": "What You'll Learn",
+    "price": "Price",
+    "instructor": "Instructor",
+    "related": "Related Courses"
+  },
+  "projects": {
+    "title": "Our Projects",
+    "description": "Portfolio of completed projects.",
+    "tech_stack": "Tech Stack",
+    "see_more": "See More",
+    "live_demo": "Live Demo",
+    "github": "GitHub",
+    "related": "Related Projects",
+    "screenshots": "Screenshots"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "address": "Address",
+    "phone": "Phone",
+    "success": "Message sent successfully!"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "description": "Web development company and programming school."
+  },
+  "common": {
+    "read_more": "Read More",
+    "back": "Back",
+    "loading": "Loading..."
+  }
+}
